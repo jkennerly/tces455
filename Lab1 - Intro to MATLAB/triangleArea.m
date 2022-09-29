@@ -3,7 +3,7 @@
 % Q3 - Calculate the area of a triangle given 3 sides
 
 % Creates a function called triangleArea which calculates the area
-% of a triangle given an array 'sides'
+% of a triangle given an array 'sides' with valid lengths
 % Ex 1: triangleArea([56, 27, 43]) 
 % Ex 2: triangleArea([5,12,13])
 function area = triangleArea(sides)
