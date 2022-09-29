@@ -1,6 +1,5 @@
 % TCES 455 Lab 1 - Intro to MATLAB
 % Written by: Jane Kennerly
-% Lab 1 - Intro to Matlab
 % Q1 - Write a script to add numbers 1, 1/2, 1/4, ..., until sum > 1.995
 
 % clc clears the command window
